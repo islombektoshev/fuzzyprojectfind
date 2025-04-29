@@ -6,4 +6,4 @@ install:
 	cp ff.sh ~/dotfiles | true
 
 install-zsh:
-	echo "source dotfiles/ff.sh" >> ~/.zshrc
+	echo "source ~/dotfiles/ff.sh" >> ~/.zshrc
